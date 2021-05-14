@@ -27,7 +27,7 @@ I just graduated from <Academia de Código_>'s intensive 14-week full-stack prog
 I love to learn new technologies like I enjoy learning a song: hitting the ground running, diving head-on into the storm, picking it apart to know how it works, because it's through that struggle that one truly grows.
 
 
-Send me a PM on <a href=https://www.linkedin.com/in/vhcosta48>Linkedin</a>.
+Send me a PM on <a href=https://www.linkedin.com/in/vhcosta48>LinkedIn</a>.
 Alternatively, <a href=mailto:vh48@pm.me>send me an email</a>.
 
 
