@@ -24,7 +24,12 @@ My name is Vítor Costa and I'm a full stack developer in Ilha Terceira, Portuga
 
 I just graduated from <Academia de Código_>'s intensive 14-week full-stack programming bootcamp, and I'm currently looking for my first job in the area.
 
-I love to learn new technologies like I enjoy learning a song: hitting the ground running, diving head-on into the storm, picking it apart to know how it works, because it's through that struggle that one truly grows.
+I love to learn new technologies like I enjoy learning a song: diving head-on into the storm, picking it apart and learning know how it works, because it's through that struggle that one truly grows.
+
+
+🔭 I’m currently working on revitalizing my repos and creating my professional portfolio. Expect higher quality code and descriptions.\
+🌱 I’m currently learning better time management skills.\
+👯 I’m looking to collaborate on making a game with talented developers interested in RPG's.
 
 
 Send me a PM on <a href=https://www.linkedin.com/in/vhcosta48>LinkedIn</a>.
@@ -36,7 +41,6 @@ Alternatively, <a href=mailto:vh48@pm.me>send me an email</a>.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHCosta&layout=compact" />
 </a>
-
 
 
 ### Thank you for checking my profile :)
