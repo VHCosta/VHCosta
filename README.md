@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 My name is Vítor Costa and I'm a full stack developer in Ilha Terceira, Portugal. 
 
-I just graduated from <Academia de Código_>'s intensive 14-week full-stack programming bootcamp, and I'm currently looking for my first job in the area.
+I am a graduate from <Academia de Código_>'s intensive 14-week full-stack programming bootcamp. I have worked in web development and wish to learn new technologies.
 
-I love to learn new technologies like I enjoy learning a song: diving head-on into the storm, picking it apart and learning know how it works, because it's through that struggle that one truly grows.
+I love to learn new tech like I enjoy learning a song: diving head-on into the storm, picking it apart and learning know how it works, because it's through that struggle that I feel I truly grow.
 
 
 🔭 I’m currently working on revitalizing my repos and creating my professional portfolio. Expect higher quality code and descriptions.\
