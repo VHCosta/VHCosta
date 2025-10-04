@@ -20,12 +20,11 @@ Here are some ideas to get you started:
     Thank you Gabi, for letting me steal your hard work
 -->
 
-My name is Vítor Costa and I'm a full stack developer in Ilha Terceira, Portugal. 
+My name is Vítor Costa and I'm a full stack developer in the Azores, Portugal. 
 
-I am a graduate from <Academia de Código_>'s intensive 14-week full-stack programming bootcamp. I have worked in web development and wish to learn new technologies.
+I am a graduate from Academia de Código's full-stack programming bootcamp. I have worked in web development and love to learn new technologies.
 
-I love to learn new tech like I enjoy learning a song: diving head-on into the storm, picking it apart and learning know how it works, because it's through that struggle that I feel I truly grow.
-
+I love to learn new tech like I enjoy learning a song: diving head-on into the storm, picking it apart and learning know how it works, because it's through that struggle that I have the most fun.
 
 🔭 I’m currently working on revitalizing my repos and creating my professional portfolio. Expect higher quality code and descriptions.\
 🌱 I’m currently learning better time management skills.\
