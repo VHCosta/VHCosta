@@ -26,20 +26,10 @@ I am a graduate from Academia de Código's full-stack programming bootcamp. I ha
 
 I love to learn new tech like I enjoy learning a song: diving head-on into the storm, picking it apart and learning know how it works, because it's through that struggle that I have the most fun.
 
-🔭 I’m currently working on revitalizing my repos and creating my professional portfolio. Expect higher quality code and descriptions.\
+🔭 I’m currently working on revitalizing my repos and creating my professional portfolio.\
 🌱 I’m currently learning better time management skills.\
 👯 I’m looking to collaborate on making a game with talented developers interested in RPG's.
 
-
-Send me a PM on <a href=https://www.linkedin.com/in/vhcosta48>LinkedIn</a>.
-Alternatively, <a href=mailto:vh48@pm.me>send me an email</a>.
-
-
-## Some stats:
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHCosta&layout=compact" />
-</a>
-
+Send me <a href=mailto:vh48@pm.me>an email</a>.
 
 ### Thank you for checking my profile :)
