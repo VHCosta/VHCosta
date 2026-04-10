@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     Thank you Gabi, for letting me steal your hard work
 -->
 
-My name is Vítor Costa and I'm a full stack developer in the Azores, Portugal. 
+My name is VH Costa and I'm a full stack developer in the Azores, Portugal. 
 
 I am a graduate from Academia de Código's full-stack programming bootcamp. I have worked in web development and love to learn new technologies.
 
